@@ -1,0 +1,8 @@
+.vscode/*
+!.vscode/tasks.json
+.env
+.venv/
+node_modules
+assignment/agent/messages.log
+__pycache__/
+*.py[cod]
